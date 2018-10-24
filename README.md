@@ -1,0 +1,7 @@
+Things I've learned at BLOC:
+
+HTML
+CSS
+COMMAND LINE
+GIT
+GITHUB
